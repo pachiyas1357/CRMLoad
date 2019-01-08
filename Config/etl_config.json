@@ -1,0 +1,5 @@
+{
+  "hdfsurl": "hdfs://nmaster:8020/user/hive/warehouse/crm/"
+  "mysqluserid": "sqluser"
+  "mysqlpass": "Time2018$"
+}
